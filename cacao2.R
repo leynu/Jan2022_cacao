@@ -67,7 +67,7 @@ a <- chocolate %>%
   unique()
 
 list_countries <- unique(a$country_of_bean_origin)
-#list_cocoa_cat <- unique(a$cocoa_cat)
+list_cocoa_cat <- unique(a$cocoa_cat)
 
 
 # Global theme
