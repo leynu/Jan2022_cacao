@@ -10,7 +10,6 @@ library(here)
 library(tidyverse)
 library(camcorder)
 library(MetBrewer) #Met Palette Generator
-# The dataset is provided in the gapminder library
 library(ggplot2)
 library(hrbrthemes)
 library(viridis)
@@ -18,7 +17,6 @@ library(showtext)
 library(sysfonts)
 library(ggstream)
 library(cowplot)
-# load patchwork
 library(patchwork)
 
 # Adds
